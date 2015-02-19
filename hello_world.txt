@@ -1,2 +1,3 @@
-This is an example file to test git.
-Hi Jacob!  Let me know if you manage to pull this down!
+Jacob: This is an example file to test git.
+John: Hi Jacob!  Let me know if you manage to pull this down!
+Jacob: Why yes! Thank you for the command line help!
